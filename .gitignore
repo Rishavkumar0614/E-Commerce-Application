@@ -41,3 +41,15 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+ios/
+web/
+linux/
+macos/
+android/
+windows/
+pubspec.lock
+server/package.json
+server/node_modules/
+server/MongoDB Cred.js
+server/package-lock.json
